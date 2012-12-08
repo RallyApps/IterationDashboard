@@ -1,4 +1,4 @@
-Rally Program Dashboard
+Rally Iteration Dashboard
 ======================
 
 ![Title](https://raw.github.com/RallyApps/IterationDashboard/master/screenshots/title-screenshot.png)
